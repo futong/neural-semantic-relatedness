@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81941150-39d8-4a45-944f-3b8fc84c2e10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UgTNFmVkdSyMe8hNIt7Xs9Bs7P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81941150-39d8-4a45-944f-3b8fc84c2e10" name="Default Changelist" comment="" />
+      <created>1575777196083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575777196083</updated>
+      <workItem from="1575777200199" duration="50733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="130" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575846327853">
+      <screen x="0" y="0" width="1024" height="640" />
+    </state>
+    <state x="223" y="130" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.640@0.0.1024.640" timestamp="1575846327853" />
+    <state x="100" y="100" width="824" height="440" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1575844538132">
+      <screen x="0" y="23" width="1024" height="568" />
+    </state>
+    <state x="100" y="100" width="824" height="440" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1024.568@0.23.1024.568" timestamp="1575844538132" />
+    <state x="100" y="100" width="824" height="440" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575844538133">
+      <screen x="0" y="23" width="1024" height="568" />
+    </state>
+    <state x="100" y="100" width="824" height="440" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1024.568@0.23.1024.568" timestamp="1575844538133" />
+    <state x="0" y="0" width="683" height="640" key="find.popup" timestamp="1575783129544">
+      <screen x="0" y="0" width="1024" height="640" />
+    </state>
+    <state x="0" y="0" width="683" height="640" key="find.popup/0.0.1024.640@0.0.1024.640" timestamp="1575783129544" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1575864824779">
+      <screen x="0" y="0" width="1024" height="640" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1024.640@0.0.1024.640" timestamp="1575864824779" />
+  </component>
+</project>
